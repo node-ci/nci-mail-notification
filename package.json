@@ -1,0 +1,30 @@
+{
+  "name": "nci-mail-notification",
+  "version": "0.1.0",
+  "description": "Mail notification plugin for nci",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/node-ci/nci-mail-notification.git"
+  },
+  "keywords": [
+    "nciplugin",
+    "mail",
+    "email",
+    "notification"
+  ],
+  "author": "Oleg Korobenko <oleg.korobenko@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/node-ci/nci-mail-notification/issues"
+  },
+  "homepage": "https://github.com/node-ci/nci-mail-notification",
+  "dependencies": {
+    "nodemailer": "1.4.0",
+    "twostep": "0.4.1",
+    "underscore": "1.8.3"
+  }
+}
