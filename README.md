@@ -33,7 +33,7 @@ after that you can set mail notification at project config e.g.
         ],
         "to": {
             "mail": [
-                "oleg.korobenko@gmail.com"
+                "somemail@gmail.com"
             ]
         }
     },
