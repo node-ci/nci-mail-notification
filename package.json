@@ -26,5 +26,8 @@
     "nodemailer": "1.4.0",
     "twostep": "0.4.1",
     "underscore": "1.8.3"
+  },
+  "peerDependencies": {
+    "nci": "0.9.x"
   }
 }

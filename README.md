@@ -2,6 +2,14 @@
 
 Mail notification plugin for [nci](https://github.com/node-ci/nci).
 
+## Installation
+
+```sh
+npm install nci-mail-notification
+```
+
+## Usage
+
 To enable add this plugin to the `plugins` section at server config, set
 parameters for e-mail account at `notify.mail` e.g. for gmail:
 
