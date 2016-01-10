@@ -1,6 +1,6 @@
 {
   "name": "nci-mail-notification",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Mail notification plugin for nci",
   "main": "lib/index.js",
   "scripts": {
