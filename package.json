@@ -28,6 +28,6 @@
     "underscore": "1.8.3"
   },
   "peerDependencies": {
-    "nci": "0.10.x"
+    "nci": "0.10.x || 1.0.x"
   }
 }
